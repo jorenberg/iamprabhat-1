@@ -24,3 +24,7 @@ This includes Chrome, Firefox, Safari, Opera and Edge. For older browsers and pl
 ## License?
 
 The ```codebase``` is licensed under the terms of the [Apache 2.0](https://github.com/iamprabhat/iamprabhat/blob/master/LICENSE). Contributors must accept our [contribution terms](https://github.com/iamprabhat/iamprabhat/blob/master/CONTRIBUTING.md).
+
+Have you any query/issues? — Please log here - https://github.com/iamprabhat/iamprabhat/issues.
+
+<b>Many Thanks</b>.
