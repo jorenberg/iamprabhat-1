@@ -1,0 +1,19 @@
+{
+  "Name": "iamprabhat®",
+  "HomePage": "http://prabhatkumar.org/",
+  "Version": "1.0.0",
+  "Author": "Prabhat Kumar",
+  "License": "Apache",
+  "Repository": {
+    "type": "git",
+    "url": "https://github.com/iamprabhat/iamprabhat.git"
+  },
+  "Administrator": {
+    "I am Prabhat": "https://github.com/iamprabhat",
+    "Sequømics Corporation": "https://github.com/sequomics"
+  },
+  "Developer": {
+    "Prabhat Kumar": "https://github.com/iamprabhat",
+    "Emma Jörenberg": "https://github.com/jorenberg"
+  }
+}
