@@ -1,0 +1,26 @@
+{
+  "presets": [
+    [
+      "es2015",
+      {
+        "modules": false
+      }
+    ]
+  ],
+  "env": {
+    "development": {
+      "presets": [
+        "axix"
+      ]
+    }
+  },
+  "plugins": [
+    "syntax-flow",
+    "transform-flow-strip-types",
+    "syntax-object-rest-spread",
+    "transform-object-rest-spread"
+  ],
+  "ignore": [
+    "./**/*.js"
+  ]
+}
