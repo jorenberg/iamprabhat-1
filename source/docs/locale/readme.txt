@@ -25,3 +25,6 @@ It's works with [i18n](https://github.com/requirejs/i18n) — an AMD loader plug
 Availability:—
   1. English (default) — locale-en
   2. Polish — locale-pl
+
+Notice:- Explicitly declared only to use source codes, within the company, organisation, and it's open source projects.
+         Do Not to use outside - Strongly Restricted.
