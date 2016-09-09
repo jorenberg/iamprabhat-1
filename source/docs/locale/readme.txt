@@ -18,3 +18,5 @@
 // -------------------------------------------------------------------------------
 // Copyright © 2014 - 2016 Sequømics Corporation, All Rights Reserved.
 // Licensed under Apache. ========================================================
+
+Note:— This directory contains — Internationalization (i18n) that are made up of separate country/language/locale-specific bundles. It's works with [i18n](https://github.com/requirejs/i18n) — an AMD loader plugin for loading internationalization/localization string resources.
