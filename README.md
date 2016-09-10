@@ -8,3 +8,7 @@ Source files for the <b>"iamprabhat®"</b> web — http://prabhatkumar.org/. Fea
 ## What is used?
 
 AXIX® (SASS), jQuery, AMD, Font Awesome, Bower, Grunt with html/css/js/json/svg/image — minify + uglify.
+
+## How to use it?
+
+All the sources can be found in the "[en](https://github.com/iamprabhat/iamprabhat/tree/1.0.0)" — directory. Modify the files in there and run ```grunt build``` in the root folder to get all the dependencies and minified versions of our HTML/CSS/JS/JSON/SVG/Image files generated to launch.
