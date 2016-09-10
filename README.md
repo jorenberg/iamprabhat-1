@@ -4,3 +4,7 @@ From the desk of [Prabhat Kumar](http://prabhatkumar.org/) — CEO, Founder & Da
 ## What is it?
 
 Source files for the <b>"iamprabhat®"</b> web — http://prabhatkumar.org/. Features includes one page website along with URL access/update, and file size optimization.
+
+## What is used?
+
+AXIX® (SASS), jQuery, AMD, Font Awesome, Bower, Grunt with html/css/js/json/svg/image — minify + uglify.
