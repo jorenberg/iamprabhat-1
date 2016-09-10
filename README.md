@@ -22,3 +22,17 @@ This includes Chrome, Firefox, Safari, Opera and Edge. For older browsers and pl
 ## License?
 
 The ```codebase``` is licensed under the terms of the [Apache 2.0](https://github.com/iamprabhat/iamprabhat/blob/master/LICENSE). Contributors must accept our [contribution terms](https://github.com/iamprabhat/iamprabhat/blob/master/CONTRIBUTING.md).
+
+[![Build Status][build-badge]][build-status]
+[![Author][author-badge]][author-url]
+
+Have you any query/issues? — Please log here - https://github.com/iamprabhat/iamprabhat/issues.
+
+<b>Many Thanks</b>.
+
+<!--/Definitions/-->
+[build-badge]: https://img.shields.io/badge/build-passing-brightgreen.svg?
+[build-status]: https://travis-ci.org/iamprabhat/iamprabhat
+
+[author-badge]: https://img.shields.io/badge/author-iamprabhat-orange.svg?
+[author-url]: https://github.com/iamprabhat
